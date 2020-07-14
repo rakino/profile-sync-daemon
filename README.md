@@ -31,7 +31,7 @@ User of eCryptFS are encouraged not to use psd unless willing to help troublesho
 * Seamonkey
 * Surf (http://surf.suckless.org/)
 * Vivaldi-browser and Vivaldi-browser-snapshot
-  Waterfox Current (Optimized fork of Firefox ESR)
+* Waterfox Current (Optimized fork of Firefox ESR)
 
 ## Documentation
 Consult the man page or the wiki page: https://wiki.archlinux.org/index.php/Profile-sync-daemon
